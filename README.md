@@ -25,25 +25,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nAWGgLB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Within the osTicket Help Desk I created and configured in the previous projects, I used one of the end-user accounts I created called "Karen" and created a ticket. I assigned the ticket to "Sev-A" and the Help Topic to "Business Critical Outage" which was a topic I created in the previous osTicket Configuration project. "Sev-A" is top level priority and the property has a 1 hour response time fram and 24/7 availability. In the title of the ticket Karen wrote "entire mobile/online banking system is down." and the description stated "My employees are reporting that users are no longer able to access the online. The ones who occasionally access it cannot log in." Since 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within the osTicket Help Desk I created and configured in the previous projects, I used one of the end-user accounts I created called "Karen" and created a ticket. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YbvYjkl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I assigned the ticket Help Topic to "Business Critical Outage" which was a topic I created in the previous osTicket Configuration project. "Sev-A" is top level priority and the property has a 1 hour response time fram and 24/7 availability which I classified for this ticket later as from the agent portal. In the title of the ticket Karen wrote "entire mobile/online banking system is down." and the description stated "My employees are reporting that users are no longer able to access the online. The ones who occasionally access it cannot log in." 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PfQzEre.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I logged into the agent portal for the agent I created "John Doe" and reassigned the ticket to "Jane Doe/online banking" since she is part of the "online banking" team.
 </p>
 <br />
