@@ -60,6 +60,6 @@ I started communicating with the guest user "Karen" as the Jane Doe agent from h
 <img src="https://i.imgur.com/B4Km8hT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After the ticket was resolved I closed it through Jane Doe since she was reassigned to it. The ticket ended in the closed tab under another mock ticket I created with another guest user account known as "Ken".
+After the ticket was resolved I closed it through Jane Doe since she was reassigned to it. The ticket ended in the closed tab under another mock ticket I created with another guest user account known as "ken".
 </p>
 <br />
