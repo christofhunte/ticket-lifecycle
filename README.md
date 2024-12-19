@@ -44,7 +44,7 @@ I assigned the ticket Help Topic to "Business Critical Outage" which was a topic
 <img src="https://i.imgur.com/PfQzEre.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I logged into the agent portal for the agent I created "John Doe" and reassigned the ticket to "Jane Doe/online banking" since she I put her as part of the "online banking" team. This is also where John set the SLA to "Sev-A
+I logged into the agent portal for the agent I created "John Doe" and reassigned the ticket to "Jane Doe/online banking" since she I put her as part of the "online banking" team. This is also where John set the SLA plan to "Sev-A".
 </p>
 <br />
 
