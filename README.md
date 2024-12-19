@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Within the osTicket Help Desk I created and configured in the previous projects, I used one of the end-user accounts I created called "Karen" and created a ticket. I assigned the ticket to "Sev-A" because the scenario was 
+Within the osTicket Help Desk I created and configured in the previous projects, I used one of the end-user accounts I created called "Karen" and created a ticket. I assigned the ticket to "Sev-A" and the Help Topic to "Business Critical Outage" which was a topic I created in the previous osTicket Configuration project. "Sev-A" is top level priority and the property has a 1 hour response time fram and 24/7 availability. In the title of the ticket Karen wrote "entire mobile/online banking system is down." and the description stated "My employees are reporting that users are no longer able to access the online. The ones who occasionally access it cannot log in." Since 
 </p>
 <br />
 
