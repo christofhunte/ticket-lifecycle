@@ -44,6 +44,22 @@ I assigned the ticket Help Topic to "Business Critical Outage" which was a topic
 <img src="https://i.imgur.com/PfQzEre.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I logged into the agent portal for the agent I created "John Doe" and reassigned the ticket to "Jane Doe/online banking" since she is part of the "online banking" team.
+I logged into the agent portal for the agent I created "John Doe" and reassigned the ticket to "Jane Doe/online banking" since she I put her as part of the "online banking" team. This is also where John set the SLA to "Sev-A
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/jvmKklp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I started communicating with the guest user "Karen" as the Jane Doe agent from here on out. I was giving updates to the status of the situation and eventually gave the final update when the issue was resolved.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/B4Km8hT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After the ticket was resolved I closed it through Jane Doe since she was reassigned to it. The ticket ended in the closed tab under another mock ticket I created with another guest user account known as "Ken".
 </p>
 <br />
